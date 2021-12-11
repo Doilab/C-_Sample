@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hello
+// Helloクラスの定義
+class Hello
 {
-    class Program
+    //mainメソッド
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            System.Console.WriteLine("Hello world!");
-        }
+        System.Console.WriteLine("Hello world!");	//コンソールに文字を表示するようにするやつ(C言語でいうprintf関数的な.
     }
 }
