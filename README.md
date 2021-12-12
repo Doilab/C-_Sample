@@ -37,7 +37,7 @@ C#へようこそ
 エラーへの対応
 
 ## UbuntuでのC#環境構築
-[参考にしたサイト](https://qiita.com/tabizou/items/f47983d1d327e6c5d5e1) <br/>
+[参考にしたサイト](https://docs.microsoft.com/ja-jp/dotnet/core/install/linux-ubuntu) <br/>
 [参考にしたサイト2](https://qiita.com/LemonLeaf/items/0531f5479315ee858eb9) <br/>
 実行方法 <br/>
 ```
