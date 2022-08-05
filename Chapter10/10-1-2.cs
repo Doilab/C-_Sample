@@ -51,7 +51,6 @@ namespace ClassSample{
 			Console.WriteLine($"*{Title}");
             Console.WriteLine($" 著者:{Author} {Pages}ページ 評価:{Ratings}");
         }
-
 	}
 }
 
